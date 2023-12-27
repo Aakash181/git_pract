@@ -1,2 +1,2 @@
 print("this is main-c")
-print("this is 2")
+print("this is from cli")
