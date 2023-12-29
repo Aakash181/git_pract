@@ -1,2 +1,2 @@
 print("this is main c")
-this is new
+this is from new
